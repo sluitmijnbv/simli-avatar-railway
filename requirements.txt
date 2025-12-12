@@ -1,5 +1,7 @@
-livekit
+fastapi
+uvicorn
+python-dotenv
+pyjwt
 livekit-agents
 livekit-plugins-openai
 livekit-plugins-simli
-python-dotenv
