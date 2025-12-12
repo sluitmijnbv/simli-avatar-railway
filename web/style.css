@@ -1,0 +1,13 @@
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  padding: 50px;
+}
+
+video {
+  width: 500px;
+  background: black;
+  margin-top: 20px;
+}
